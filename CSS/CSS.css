@@ -1,0 +1,39 @@
+#h2{
+  text-align:center;
+}
+#rounded-circle{
+  width:204px;
+  height: 136px;
+  text-align:center;
+}
+.rounded-circle {
+  border-radius: 48% !important;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa {
+ 
+  text-align: center;
+  text-decoration: none;
+  border-radius: 20%;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.campos {
+  font-family:Verdana,Helvetica;
+  text-align: center;
+  font-size:12pt;
+  width: 1000px;
+  color:#696969;
+  padding: 3px 7px 3px 7px;
+  border:0.8px solid rgb(114, 112, 112);
+  background:#FFF;
+  border-radius: 65px;
+}
